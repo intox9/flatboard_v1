@@ -3,7 +3,7 @@ Flatboard is a project template folder structure. It's designed to be used for p
 
 Flatboard creates a "flat" folder interpretation of workflow concepts such as branching, tagging, releasing, versioning and revisioning.
 
-
+   
 
 ### Basic usage
 #### Cue-folder
@@ -14,7 +14,7 @@ Cue-folders which end in an underscore indicate that there are subfolder cue-fol
 
 [ a working draft ]
 
-
+   
 
 ### Naming versions
 #### Parent-position-compatible
@@ -28,7 +28,7 @@ v1 is always compatible with v1.1, v1.2, v1.3, etc.
 v1.1 though may **not** be compatible with v1.2, v1.3, v1.4, etc.  
 v1.1 is compatible though with v1.1.1, v1.1.2, v1.1.3, etc.  
 
-
+   
 
 ### Syntax meanings for labels
 ###### Double dashes ( -- ) 
