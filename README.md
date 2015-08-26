@@ -22,11 +22,9 @@ The rule:
 **The number right of a decimal must be compatible with the number left of that decimal.**
 
 For example:
-v1 is always compatible with v1.1, v1.2, v1.3, etc.
-
-v1.1 though may **not** be compatible with v1.2, v1.3, v1.4, etc.
-
-v1.1 is compatible though with v1.1.1, v1.1.2, v1.1.3, etc.
+v1 is always compatible with v1.1, v1.2, v1.3, etc. 
+v1.1 though may **not** be compatible with v1.2, v1.3, v1.4, etc. 
+v1.1 is compatible though with v1.1.1, v1.1.2, v1.1.3, etc. 
 
 
 ### Syntax meanings for labels
