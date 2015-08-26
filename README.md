@@ -4,6 +4,7 @@ Flatboard is a project template folder structure. It's designed to be used for p
 Flatboard creates a "flat" folder interpretation of workflow concepts such as branching, tagging, releasing, versioning and revisioning.
 
 
+
 ### Basic usage
 #### Cue-folder
 Folders with names wrapped in curly brackets are called *cue-folders*. They denote format, naming conventions, and arguments with which to name folders with, which reside in the same folder as the cue-folder.
@@ -12,6 +13,7 @@ Folders with names wrapped in curly brackets are called *cue-folders*. They deno
 Cue-folders which end in an underscore indicate that there are subfolder cue-folders nested inside of the cue-folder, we refer to them as *cue-folder-templates*. These type of folders are used for creating empty starting point directory structures. To use, copy and paste the folder, name the pasted folder accordingly.
 
 [ a working draft ]
+
 
 
 ### Naming versions
@@ -25,6 +27,7 @@ For example:
 v1 is always compatible with v1.1, v1.2, v1.3, etc.  
 v1.1 though may **not** be compatible with v1.2, v1.3, v1.4, etc.  
 v1.1 is compatible though with v1.1.1, v1.1.2, v1.1.3, etc.  
+
 
 
 ### Syntax meanings for labels
