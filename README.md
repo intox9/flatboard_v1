@@ -28,8 +28,8 @@ v1.1 is compatible though with v1.1.1, v1.1.2, v1.1.3, etc.
 
 
 ### Syntax meanings for labels
-###### Double dashes -- 
+####### Double dashes -- 
 "is a" relationship
 
-###### Double underscores __
+####### Double underscores __
 label delineator; can denote any relationship other than "is a", ie. has a, is for, uses a, is part of.
