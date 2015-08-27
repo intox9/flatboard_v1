@@ -2,14 +2,8 @@
 Flatboard is a project template folder structure. It's designed to be used for projects which do not use any type of automated version control. Instead, version control and revisions are manually managed. 
 
 Flatboard creates a "flat" folder interpretation of workflow concepts, such as branching, tagging, releasing, versioning and revisioning.
-   
-
-REMOTE CHANGE
-
-   
+      
 <br>
-
-LOCAL CHANGE
    
 ### Basic usage
 #### Cue-folder
