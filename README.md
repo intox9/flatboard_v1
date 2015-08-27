@@ -14,7 +14,7 @@ Cue-folders which end in an underscore indicate that there are subfolder cue-fol
 
 [ a working draft ]
    
----   
+<br>   
    
 ### Naming versions
 #### Parent-position-compatible
@@ -28,7 +28,7 @@ v1 is always compatible with v1.1, v1.2, v1.3, etc.
 v1.1 though may **not** be compatible with v1.2, v1.3, v1.4, etc.  
 v1.1 is compatible though with v1.1.1, v1.1.2, v1.1.3, etc.  
    
----      
+<br>      
    
 ### Syntax meanings for labels
 ###### Double dashes ( -- ) 
