@@ -11,8 +11,6 @@ Folders with names wrapped in curly brackets are called *cue-folders*. They deno
 
 #### Cue-folder-template
 Cue-folders which end in an underscore indicate that there are subfolder cue-folders nested inside of the cue-folder, we refer to them as *cue-folder-templates*. These type of folders are used for creating empty starting point directory structures. To use, copy and paste the folder, name the pasted folder accordingly.
-
-[ a working draft ]
    
 <br>   
    
